@@ -24,7 +24,6 @@ SecureChat is a Streamlit-based encrypted messaging application modeled after Te
    ```bash
    git clone https://github.com/yourusername/securechat.git
    cd securechat
-   $1├── README.md           # This file
    ```
 
 2. **(Optional) Create and activate a virtual environment**
