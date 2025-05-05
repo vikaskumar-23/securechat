@@ -10,6 +10,9 @@ SecureChat is a Streamlit-based encrypted messaging application modeled after Te
 * Thread-safe file-based storage for messages and user list (using pickle and JSON)
 * Telegram-like UI with sticky headers, message bubbles, and sidebar chat list
 
+## Deployed Here
+* https://securechat-5amldkfxf4ykwjotxvk4jd.streamlit.app/
+
 ## Prerequisites
 
 * Python 3.7 or newer
